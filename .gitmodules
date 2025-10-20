@@ -1,0 +1,3 @@
+[submodule "ProyectoPrincipal/RepoB"]
+	path = ProyectoPrincipal/RepoB
+	url = https://github.com/fernandofilipuzzi-utn/RepoB.git
